@@ -1,4 +1,4 @@
-name := "academy"
+name := "fundanmentals1"
 
 version := "0.1"
 
